@@ -1,6 +1,6 @@
 # Super-Store-Sales-Dashboard
 
-1. **Healine**
+1. **Headline**
 
 The process started in Power Query, where I used M language to clean and reshape the raw data — correcting data types, removing unnecessary fields, and building a custom column (including date transformations) so everything downstream would work reliably. Rather than relying only on the Power Query UI, I wrote M directly to handle the transformations.
 Before building any visuals, I set up the core DAX measures — sales, profit, margin %, average order value — to establish a reliable foundation for the analysis rather than working things out ad hoc later.
