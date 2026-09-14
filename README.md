@@ -32,3 +32,6 @@ Forecasted next-period sales (90% confidence) at ~$137K, signaling the 2026 spik
 
 5. Data Source
    CSV
+
+6. Dashboard preview: (https://github.com/Ramshukl10/Super-Store-Sales-Dashboard/blob/main/Pg1.png)
+                      (
